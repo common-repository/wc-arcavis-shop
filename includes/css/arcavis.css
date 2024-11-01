@@ -1,0 +1,51 @@
+
+.arcavis_setting_page .postbox-container {
+    border: 2px solid rgb(0, 156, 213);
+    width: 46%;
+    margin: 10px;
+}
+
+.arcavis_setting_page .postbox-container .content {
+    margin-left: 13px;
+    padding: 11px;
+}
+
+.button.arcavis_danger {
+    background: rgb(255, 47, 47) none repeat scroll 0 0;
+    color: #fff;
+}
+
+.js div#arcavis_preloader {
+    display: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    z-index: 30001;
+}
+
+#arcavis_preloader div {
+    color: black;
+    left: 29%;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+}
+
+#arcavis_preloader div h3 {
+    font-size: 25px;
+    color: black;
+}
+
+.arcavis_setting_page .postbox-container .header {
+    background-color: rgb(0, 156, 213);
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: 16pt;
+    height: 20px;
+    padding: 10px;
+}
